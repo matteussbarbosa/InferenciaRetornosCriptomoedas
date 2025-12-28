@@ -1,0 +1,9 @@
+
+---
+
+## Pré-requisitos
+
+- Python >= 3.10  
+- Bibliotecas: `pandas`, `numpy`, `scipy`, `python-binance`  
+
+Install dependencies, if needed.
